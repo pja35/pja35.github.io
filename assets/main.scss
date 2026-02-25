@@ -1,0 +1,106 @@
+---
+---
+
+$text-color:       #333;
+$background-color: #fff;
+$brand-color:      #555;
+$content-width:    740px;
+
+@import "minima";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+.page-content {
+  padding-top: 48px;
+  padding-bottom: 48px;
+}
+
+h1 {
+  font-size: 2em;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 0.25em;
+}
+
+h2 {
+  font-size: 1.35em;
+  font-weight: 600;
+  color: #333;
+  margin-top: 2.2em;
+  margin-bottom: 0.7em;
+}
+
+h3 {
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #444;
+}
+
+.site-subtitle {
+  font-size: 1.15em;
+  color: #666;
+  font-style: italic;
+  margin-top: -0.3em;
+  margin-bottom: 1.8em;
+}
+
+p {
+  line-height: 1.75;
+  margin-bottom: 1.1em;
+}
+
+ul li {
+  margin-bottom: 0.35em;
+  line-height: 1.6;
+}
+
+a {
+  color: #555;
+  text-decoration: underline;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.site-title {
+  font-weight: 600;
+  letter-spacing: -0.3px;
+
+  &, &:visited {
+    color: #222;
+  }
+}
+
+.page-link {
+  color: #555;
+  font-size: 0.95em;
+
+  &:hover {
+    color: #000;
+    text-decoration: none;
+  }
+}
+
+.site-footer {
+  border-top: 1px solid #e0e0e0;
+  padding: 20px 0;
+}
+
+.footer-text {
+  color: #999;
+  font-size: 0.82em;
+  margin: 0;
+}
+
+.post-title {
+  font-size: 1.7em;
+  color: #222;
+}
