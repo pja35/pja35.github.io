@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# QiE: Quantum Information Expertise
+<h1><img src="/assets/QiE-logo.png" alt="QiE" style="height:25px;width:auto;vertical-align:baseline;"> : Quantum Information Expertise</h1>
 
 *Independent scientific due diligence and advisory services for investors, boards and institutions evaluating quantum technologies.*
 {: .site-subtitle}
