@@ -1,0 +1,13 @@
+title: Pablo Arrighi
+description: Researcher in theoretical computer science and quantum computing
+baseurl: ""
+url: "https://pja35.github.io"
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
