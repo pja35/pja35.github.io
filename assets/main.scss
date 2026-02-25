@@ -73,8 +73,6 @@ a {
 .site-title {
   font-weight: 600;
   letter-spacing: -0.3px;
-  display: flex;
-  align-items: center;
 
   &, &:visited {
     color: #222;
@@ -83,13 +81,14 @@ a {
   &:hover {
     text-decoration: none;
   }
-}
 
-.site-logo {
-  height: 22px;
-  width: auto;
-  max-height: 22px;
-  vertical-align: middle;
+  img {
+    height: 18px;
+    width: auto;
+    vertical-align: middle;
+    position: relative;
+    top: -1px;
+  }
 }
 
 .page-link {
