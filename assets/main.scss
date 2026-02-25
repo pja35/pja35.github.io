@@ -73,10 +73,21 @@ a {
 .site-title {
   font-weight: 600;
   letter-spacing: -0.3px;
+  display: flex;
+  align-items: center;
 
   &, &:visited {
     color: #222;
   }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.site-logo {
+  height: 28px;
+  width: auto;
 }
 
 .page-link {
