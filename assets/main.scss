@@ -86,8 +86,10 @@ a {
 }
 
 .site-logo {
-  height: 28px;
+  height: 22px;
   width: auto;
+  max-height: 22px;
+  vertical-align: middle;
 }
 
 .page-link {
