@@ -3,12 +3,16 @@ layout: default
 title: Home
 ---
 
-# Pablo Arrighi
+# QiE: Quantum Information Expertise
 
-*Independent Quantum Technology Expertise*
+*Independent scientific due diligence and advisory services for investors, boards and institutions evaluating quantum technologies.*
 {: .site-subtitle}
 
-Senior researcher in quantum computing at Inria providing independent scientific expertise to investors, boards and institutions evaluating quantum technologies. Engagements focus on objective technical assessment, scientific risk analysis, and long-term feasibility.
+## Pablo Arrighi
+
+Senior researcher in quantum computing at Inria. Engagements focus on objective technical assessment, scientific risk analysis, and long-term feasibility.
+
+For larger projects, dedicated groups of experts can be assembled drawing on an extensive academic network.
 
 ## Scope of Work
 

@@ -6,6 +6,6 @@ permalink: /contact/
 
 For confidential inquiries regarding advisory or due-diligence engagements, please contact:
 
-**pablo.arrighi@inria.fr**
+![Email address](/assets/email.png){: .email-img}
 
 Engagements undertaken in independent capacity.
