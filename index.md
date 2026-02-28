@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# QiE: Quantum Information Expertise
+# Quantum Information Expertise
 
 *Independent scientific due diligence and advisory services for investors, boards and institutions evaluating quantum technologies.*
 {: .site-subtitle}
