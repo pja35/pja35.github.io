@@ -4,20 +4,28 @@ title: Expertise
 permalink: /expertise/
 ---
 
-## Quantum Computing Foundations
+I am a quantum computing researcher with 20+ years of experience and a strong background in theoretical physics. My work is theoretical, not experimental -- but it maps directly onto the questions that quantum technology companies face today.
 
-- Computational models and their relative power
-- Algorithmic frameworks and complexity-theoretic limits
-- Information-theoretic constraints and resource accounting
+## Quantum Programming and Compilation
 
-## Architectures and Scalability
+Quantum hardware is only as useful as the software that drives it. Compilers that translate high-level algorithms into efficient gate sequences are a key bottleneck. I am a pioneer in quantum programming languages, having designed formal calculi for quantum computation since 2003. More recently, I supervised a [CIFRE thesis with Quandela](https://www.quandela.com/) (2022--2025) on a programming language for photonic, measurement-based quantum computing -- where compilation and optimization are tightly coupled to the hardware.
 
-- Physical constraints on gate fidelity and coherence
-- Error correction overhead and fault-tolerance thresholds
-- Long-term feasibility of proposed hardware roadmaps
+## Quantum Simulation and Use Cases
 
-## Theoretical and Conceptual Soundness
+Finding practical applications -- especially on near-term, noisy (NISQ) devices -- is a central challenge for the industry. My research specialty is quantum simulation: using quantum computers to simulate physical systems, including the behaviour of particles governed by partial differential equations. I have 20 years of work on quantum cellular automata and quantum walks, with rigorous proofs that these discrete models faithfully reproduce real physics. This gives me a precise understanding of which simulation claims are realistic and which are premature.
 
-- Distinguishing formal results from unsubstantiated claims
-- Physical plausibility of performance projections
-- Roadmap realism relative to known theoretical bounds
+## Quantum Protocols and Security
+
+Quantum communication and cryptography protocols underpin several emerging product categories (QKD, secure delegation, verification). I introduced the concept of *blind quantum computing* -- delegating a computation to an untrusted quantum server while keeping the input hidden. This protocol has since been experimentally demonstrated and spawned an active subfield. It is a concrete example of how foundational research translates into deployable technology.
+
+## The Big Picture
+
+Assessing a quantum venture often requires stepping back from specific claims to ask broader questions: is this the right algorithmic approach? Does the proposed architecture have a path to scale? How does this compare to competing approaches?
+
+I bring a wide-angle view grounded in active research:
+
+- *[A typology of quantum algorithms](https://arxiv.org/abs/2407.16228)* -- a systematic classification of all known quantum algorithms and their sources of speedup
+- Popular science writing on quantum computation in [La Recherche](https://lmf.cnrs.fr/Perso/PabloArrighi) (2 articles), [Physics World](https://lmf.cnrs.fr/Perso/PabloArrighi), and others -- demonstrating the ability to explain these topics to non-specialists
+- 70+ peer-reviewed publications across quantum computing and quantum simulation
+
+[Full publication list (arXiv)](https://arxiv.org/search/?searchtype=author&query=Arrighi%2C+P) &ensp;&middot;&ensp; [Academic homepage](https://lmf.cnrs.fr/Perso/PabloArrighi)

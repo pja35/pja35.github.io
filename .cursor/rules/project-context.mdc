@@ -1,0 +1,40 @@
+---
+description: 
+alwaysApply: true
+---
+
+# Project Context
+
+This repo serves **quantum-information-expertise.com**, a Jekyll/minima site hosted on GitHub Pages (pja35.github.io) for Pablo Arrighi's independent consulting activity. I also has Pablo Arrighi's CV.
+
+## Who
+
+Pablo Arrighi — Senior Researcher (DR) at Inria, specializing in quantum computing, quantum simulation, and quantum gravity. Key credentials:
+- Author of "A typology of quantum algorithms" and 60+ publications
+- Former member of CoNRS Section 6 (CNRS national evaluation committee)
+- Referee for national research funding agencies (ANR, etc.)
+- Operates a micro-entreprise under French law for consulting
+
+## Goal
+
+Offer independent scientific due diligence and advisory services (up to ~1 day/week) to:
+- Quantum technology investment funds
+- Scientific advisory boards of startups
+- Banks and corporate innovation teams
+- Expert networks (AlphaSights, etc.)
+
+Target platforms for visibility: AlphaSights, Toptal, Upwork.
+
+## Repo Structure
+
+- `_config.yml`, `Gemfile` — Jekyll config (theme: minima, domain: quantum-information-expertise.com)
+- `index.md`, `advisory.md`, `expertise.md`, `contact.md` — site content pages
+- `_includes/header.html`, `_includes/footer.html` — custom layout partials
+- `assets/` — SCSS styles, logo, email image
+- `REFS/CV-Arrighi.pdf` — academic CV (PDF)
+- `REFS/CV-Arrighi/word/document.xml` — academic CV (uncompressed docx XML)
+
+## Two Main Tasks
+
+1. **Adapt the CV** from academic format to a consulting-oriented format suitable for expert networks and freelance platforms
+2. **Build/refine the website** at quantum-information-expertise.com as a professional landing page for the consulting activity

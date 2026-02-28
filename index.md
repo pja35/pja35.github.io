@@ -10,20 +10,28 @@ title: Home
 
 ## Pablo Arrighi
 
-Senior researcher in quantum computing at Inria. Engagements focus on objective technical assessment, scientific risk analysis, and long-term feasibility.
+I am a Senior Researcher (Research Director) at Inria, heading the [QuaCS](https://www.inria.fr/en/quacs) team on quantum computation structures. I hold a PhD from the University of Cambridge and have authored 70+ publications in quantum computing, quantum simulation, and their mathematical foundations.
 
-For larger projects, dedicated groups of experts can be assembled drawing on an extensive academic network.
+Alongside my research, I now offer independent advisory services -- applying two decades of scientific evaluation experience to help non-specialists assess quantum technology claims.
 
-## Scope of Work
+## What I Offer
 
-- Independent technical due diligence for investment decisions
-- Scientific advisory roles for boards and deep-tech ventures
-- Evaluation of technology roadmaps and scalability claims
-- Assessment of theoretical foundations and implementation feasibility
-- Confidential expert consultations via professional research networks
+- Technical due diligence on quantum technologies for investment decisions
+- Scientific advisory for boards, deep-tech ventures and innovation teams
+- Assessment of technology roadmaps, scalability claims and theoretical soundness
+- Confidential expert consultations (via expert networks or directly)
 
-## Professional Background
+For larger engagements, I can assemble dedicated groups of experts drawing on my academic network.
 
-Senior researcher at Inria with a sustained record of research leadership in quantum computing, with emphasis on theoretical foundations and computational architectures. Work spans formal models of quantum computation, quantum cellular automata, and the mathematical structures underlying scalable quantum information processing.
+## Why Me
+
+My research gives me the scientific depth. What makes me specifically suited to evaluation and due diligence is a long track record of *institutional scientific assessment*:
+
+- **National research evaluation** -- Member of CoNRS Section 6, the committee that selects, promotes and awards CNRS researchers in computer science (2019--2021)
+- **International grant referee** -- Evaluated research proposals for funding agencies in Switzerland (SNSF), Belgium (FNRS), Luxembourg (FNR), Chile (Fondecyt), Slovenia (ARIS), Italy (PRIN), Uruguay (ANII), and EU programmes (CHIST-ERA), among others
+- **Lab and strategy evaluation** -- HCERES expert, evaluating laboratories and university research strategies
+- **Private-sector R&D assessment** -- Crédit Impôt Recherche expert, evaluating whether company research qualifies for public support (2006--2008)
+- **Industry collaboration** -- Supervised a CIFRE thesis with [Quandela](https://www.quandela.com/), a leading photonic quantum computing startup (2022--2025)
+- **Strategic advisory boards** -- Member of the Scientific and Training Advisory Board (STAB) of the Quanta Institute at Aix-Marseille Université (2026--)
 
 [Academic homepage](https://lmf.cnrs.fr/Perso/PabloArrighi) &ensp;&middot;&ensp; [Publications (arXiv)](https://arxiv.org/search/?searchtype=author&query=Arrighi%2C+P)
