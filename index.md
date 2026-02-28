@@ -30,7 +30,7 @@ My research gives me the scientific depth. What makes me specifically suited to 
 - **National research evaluation** -- Member of CoNRS Section 6, the committee that selects, promotes and awards CNRS researchers in computer science (2019--2021)
 - **International grant referee** -- Evaluated research proposals for funding agencies in Switzerland (SNSF), Belgium (FNRS), Luxembourg (FNR), Chile (Fondecyt), Slovenia (ARIS), Italy (PRIN), Uruguay (ANII), and EU programmes (CHIST-ERA), among others
 - **Lab and strategy evaluation** -- HCERES expert, evaluating laboratories and university research strategies
-- **Private-sector R&D assessment** -- Crédit Impôt Recherche expert, evaluating whether company research qualifies for public support (2006--2008)
+- **Private-sector R&D assessment** -- Crédit Impôt Recherche expert, evaluating whether company research qualifies for public support
 - **Industry collaboration** -- Supervised a CIFRE thesis with [Quandela](https://www.quandela.com/), a leading photonic quantum computing startup (2022--2025)
 - **Strategic advisory boards** -- Member of the Scientific and Training Advisory Board (STAB) of the Quanta Institute at Aix-Marseille Université (2026--)
 

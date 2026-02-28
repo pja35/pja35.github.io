@@ -8,7 +8,7 @@ I am a quantum computing researcher with 20+ years of experience and a strong ba
 
 ## Quantum Programming and Compilation
 
-Quantum hardware is only as useful as the software that drives it. Compilers that translate high-level algorithms into efficient gate sequences are a key bottleneck. I am a pioneer in quantum programming languages, having designed formal calculi for quantum computation since 2003. More recently, I supervised a [CIFRE thesis with Quandela](https://www.quandela.com/) (2022--2025) on a programming language for photonic, measurement-based quantum computing -- where compilation and optimization are tightly coupled to the hardware.
+Quantum hardware is only as useful as the software that drives it. Compilers that translate high-level algorithms into efficient gate sequences are a key bottleneck. I am a pioneer in quantum programming languages, having designed formal calculi for quantum computation since 2003. More recently, I co-supervised a [CIFRE thesis with Quandela](https://www.quandela.com/) (2022--2025) on a programming language for photonic, measurement-based quantum computing -- where compilation and optimization are tightly coupled to the hardware.
 
 ## Quantum Simulation and Use Cases
 

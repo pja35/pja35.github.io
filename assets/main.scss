@@ -68,6 +68,12 @@ a {
 .site-header {
   border-top: none;
   border-bottom: 1px solid #e0e0e0;
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
 }
 
 .site-title {
@@ -75,6 +81,7 @@ a {
   letter-spacing: -0.3px;
   display: flex;
   align-items: center;
+  float: none;
 
   &, &:visited {
     color: #222;
@@ -86,10 +93,12 @@ a {
 }
 
 .site-logo {
-  height: 22px;
+  height: 38px;
   width: auto;
-  max-height: 22px;
-  vertical-align: middle;
+}
+
+.site-nav {
+  float: none;
 }
 
 .page-link {
